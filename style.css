@@ -1,0 +1,17 @@
+#full{
+	width: 400px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-color: aqua;
+}
+
+.form_container{
+	background-color: lightgreen;
+}
+
+.result{
+	background-color: lightpink;
+	font-size: large;
+}
