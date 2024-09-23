@@ -2,6 +2,7 @@
 
 Grocery Expense Tracker is a simple web application that allows users to input the number of grocery items and their respective costs, and then calculates the total expenditure.
 
+
 ## Features
 - Input the number of grocery items
 - Dynamically generate input fields for each item
